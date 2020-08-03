@@ -5,7 +5,7 @@ Kaggle challenge for predicting item sales at Walmart in various locations(Calif
 Datasets can be downloaded from here- https://www.kaggle.com/c/m5-forecasting-accuracy/data
 
 I completed this project with:
-  *Tripti Prasad: https://github.com/trips2503
-  *Vennela: https://github.com/Vennela16
+  1. Tripti Prasad: https://github.com/trips2503
+  2. Vennela: https://github.com/Vennela16
 
 For more information, look at the project documentation uploaded in PDF.
