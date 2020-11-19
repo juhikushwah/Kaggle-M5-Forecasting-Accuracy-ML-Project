@@ -1,6 +1,6 @@
 # Kaggle-M5-Forecasting-Accuracy-ML-Project
 
-Kaggle challenge for predicting item sales at Walmart in various locations(California, Wisconsin and Texas) for two 28-days time period. This is part one of that period and was implemenmted on jupyter notebook. 
+Kaggle challenge for predicting item sales at Walmart in various locations(California, Wisconsin and Texas) for two 28-days time period. This is part one of that period and was implemented on jupyter notebook. 
 
 Datasets can be downloaded from here- https://www.kaggle.com/c/m5-forecasting-accuracy/data
 
